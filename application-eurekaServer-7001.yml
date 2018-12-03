@@ -1,12 +1,6 @@
 server: 
   port: 7001
-spring: 
-  security: 
-    basic: 
-        enabled:true
-    user:
-      name:admin
-      password:123456
+
 eureka: 
   #server:
   #  enable-self-preservation:false #关闭自我保护机制
